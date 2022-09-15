@@ -71,8 +71,11 @@ body {
 }
 
 img {
-	max-width: 100%
+	max-width: 100%;	/*元素最大宽度*/
+	max-height: 200px; /*元素最大高度*/
+	object-fit: contain; /*等比例缩放*/
 }
+
 
 a[disabled] {
 	cursor: not-allowed;
