@@ -6,4 +6,4 @@
 
 checktime
 
-#不支持中文
+#md格式使用page访问中文乱码
