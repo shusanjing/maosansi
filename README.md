@@ -2,7 +2,7 @@
 
 **猫友智能家居【企鹅交流群869298490】猫咪专用马桶DIY交流**
 
-https://github.com/shusanjing/maosansi/tree/main/猫马桶教程PDF物料表/
+猫马桶教程PDF物料表：https://github.com/shusanjing/maosansi/tree/main/猫马桶教程PDF物料表/
 
 猫马桶训练和制作教程：https://shusanjing.github.io/maosansi/
 
